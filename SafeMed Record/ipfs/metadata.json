@@ -1,0 +1,8 @@
+{
+    "root": {
+        "patient": [],
+        "doctor": [],
+        "diagnostic": [],
+        "hospital": []
+    }
+}
